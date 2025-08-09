@@ -1,0 +1,19 @@
+{
+    "name": "superpms/helper-tools",
+    "license": "Apache-2.0",
+    "description": "pms helper tools",
+    "autoload": {
+        "psr-4": {
+            "pms\\": "src/pms/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guest",
+            "email": "kid666@88.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
